@@ -1,3 +1,4 @@
 # Solar-System-App
 # Images
-![111](https://user-images.githubusercontent.com/75619408/188951149-06120ab9-5970-47e0-9429-0160546f6265.jpg)
+![1 (1)1](https://user-images.githubusercontent.com/75619408/188951342-df4ebc67-9ceb-4a9f-bbb1-b31341354ce6.jpg)
+
