@@ -1,3 +1,3 @@
 # Solar-System-App
-![1](https://user-images.githubusercontent.com/75619408/188947292-a4b0159a-c303-428a-8d90-83a1f8e5c829.jpg)
-![2](https://user-images.githubusercontent.com/75619408/188947306-3dbda847-213b-43e3-af48-9dc07bb54e49.jpg)
+![11](https://user-images.githubusercontent.com/75619408/188948378-53146b7a-7e65-47a8-b3fb-589ea9580c1d.jpg)
+![22](https://user-images.githubusercontent.com/75619408/188948418-d29729a2-4d22-4ef9-ae06-95bfa975e47f.jpg)
