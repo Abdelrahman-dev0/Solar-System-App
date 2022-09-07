@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Solar System</string>
+
+    <string-array name="solar_system">
+        <item>Sun</item>
+        <item>Moon</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Pluto</item>
+        <item>ceres</item>
+    </string-array>
+
+    <string-array name="type">
+        <item>Star</item>
+        <item>Astronomical Body</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+        <item>Planet</item>
+    </string-array>
+
+    <string-array name="gravity">
+        <item>274 m/s²</item>
+        <item>1.62 m/s²</item>
+        <item>3.7 m/s²</item>
+        <item>8.87 m/s²</item>
+        <item>9.807 m/s²</item>
+        <item>3.721 m/s²</item>
+        <item>24.79 m/s²</item>
+        <item>10.44 m/s²</item>
+        <item>8.87 m/s²</item>
+        <item>11.15 m/s²</item>
+        <item>0.62 m/s²</item>
+        <item>0.27 m/s²</item>
+    </string-array>
+
+    <string-array name="mass">
+        <item>1.989 × 10^30 kg</item>
+        <item>7.34767309 × 10^22 kg</item>
+        <item>3.285 × 10^23 kg</item>
+        <item>4.867 × 10^24 kg</item>
+        <item>5.972 × 10^24 kg</item>
+        <item>6.39 × 10^23 kg</item>
+        <item>1.898 × 10^27 kg</item>
+        <item>5.683 × 10^26 kg</item>
+        <item>8.681 × 10^25 kg</item>
+        <item>1.024 × 10^26 kg</item>
+        <item>1.30900 × 10^22 kg</item>
+        <item>9.1 × 10^20 kg</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>1.409 x 10^18 km</item>
+        <item>2.1968 x 10^10 km^3</item>
+        <item>6.083 x 10^10 km</item>
+        <item>9.2843 x 10^11 km</item>
+        <item>1.08321 x 10^12 km</item>
+        <item>1.6318 x 10^11 km</item>
+        <item>1.43128 x 10^15 km</item>
+        <item>8.2713 x 10^14 km</item>
+        <item>6.833 x 10^13 km</item>
+        <item>6.254 x 10^13 km</item>
+        <item>7.15 x 10^9 km</item>
+        <item>434,000,000 km^3</item>
+    </string-array>
+
+    <string-array name="meanDensity">
+        <item>1.41 g/cm³</item>
+        <item>3.34 g/cm³</item>
+        <item>5.43 g/cm³</item>
+        <item>5.24 g/cm³</item>
+        <item>5.51 g/cm³</item>
+        <item>3.93 g/cm³</item>
+        <item>1.33 g/cm³</item>
+        <item>687 kg/m³</item>
+        <item>1.27 g/cm³</item>
+        <item>1.64 g/cm³</item>
+        <item>1.88 g/cm³</item>
+        <item>2.08 g/cm³</item>
+    </string-array>
+
+    <string-array name="surfaceArea">
+        <item>6.09×10^12 km²</item>
+        <item>14.6 million km²</item>
+        <item>74.8 million km²</item>
+        <item>460.2 million km²</item>
+        <item>510.1 million km²</item>
+        <item>144.8 million km²</item>
+        <item>61.42 billion km²</item>
+        <item>42.7 billion km²</item>
+        <item>8.083 billion km²</item>
+        <item>7.618 billion km²</item>
+        <item>1.664794×10^7 km²</item>
+        <item>2,770,000 km²</item>
+    </string-array>
+
+    <!-- Other Strings -->
+    <string name="start_btn">Start</string>
+    <string name="planet_name">Planet</string>
+    <string name="type">Type</string>
+    <string name="classification">Classification</string>
+    <string name="gravity">Gravity</string>
+    <string name="volume">Volume</string>
+    <string name="mean_density">Mean density</string>
+    <string name="surface_area">Surface area</string>
+    <string name="mass">Mass</string>
+    <string name="name">name</string>
+    <string name="volume_value">Volume value</string>
+    <string name="surface_area_value">Surface area value</string>
+    <string name="mean_density_value">Mean density value</string>
+    <string name="mass_value">Mass value</string>
+    <string name="gravity_value">Gravity value</string>
+
+</resources>
